@@ -12,8 +12,8 @@ Dar click en el botón **Clone or download** y elegir la opción [descargar zip]
 2. Abrir una terminal y entrar a la carpeta del ejercicio (o abrir la carpeta usando visualStudio Code)
 3. Cuando esté dentro de la carpeta del proyecto (por ejemplo ej4-carrito-compras) ejecutar el comando para restaurar el proyecto
     
-    dotnet restore
+        dotnet restore
 
 4. ejecutar el comando para ejecutar el código
 
-    dotnet run
+        dotnet run
